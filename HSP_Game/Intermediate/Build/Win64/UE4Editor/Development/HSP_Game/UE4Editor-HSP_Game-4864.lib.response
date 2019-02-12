@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HSP_Game-4864.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\HSP_GameEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\UE4Editor\Development\HSP_Game\HSP_Game.cpp.obj"
+"C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\UE4Editor\Development\HSP_Game\HSP_GameGameModeBase.cpp.obj"
+"C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\UE4Editor\Development\HSP_Game\ProtagCharacter.cpp.obj"
+"C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\UE4Editor\Development\HSP_Game\HSP_Game.init.gen.cpp.obj"
+"C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\UE4Editor\Development\HSP_Game\HSP_GameGameModeBase.gen.cpp.obj"
+"C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\UE4Editor\Development\HSP_Game\ProtagCharacter.gen.cpp.obj"
+"C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\UE4Editor\Development\HSP_Game\PCLaunch.rc.res"
+/OUT:"C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\UE4Editor\Development\HSP_Game\UE4Editor-HSP_Game-4864.lib"

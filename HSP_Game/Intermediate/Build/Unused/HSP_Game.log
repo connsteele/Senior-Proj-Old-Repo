@@ -1,0 +1,16 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game).
+  Creating makefile for hot reloading HSP_GameEditor (source directory changed)
+  Compiling game modules for hot reload
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for HSP_GameEditor
+    Running UnrealHeaderTool "C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\HSP_Game.uproject" "C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\HSP_GameEditor\Development\HSP_GameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for HSP_GameEditor in 7.1435903 seconds
+  Building 4 actions with 8 processes...
+    [1/4] ProtagCharacter.cpp
+    [2/4] ProtagCharacter.gen.cpp
+    [3/4] UE4Editor-HSP_Game-5179.lib
+       Creating library C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\UE4Editor\Development\HSP_Game\UE4Editor-HSP_Game-5179.lib and object C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\UE4Editor\Development\HSP_Game\UE4Editor-HSP_Game-5179.exp
+    [4/4] UE4Editor-HSP_Game-5179.dll
+       Creating library C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\UE4Editor\Development\HSP_Game\UE4Editor-HSP_Game-5179.suppressed.lib and object C:\Users\gosus\Documents\CP-School\SeniorProject\gitRepos\Senior-Project-Game\HSP_Game\Intermediate\Build\Win64\UE4Editor\Development\HSP_Game\UE4Editor-HSP_Game-5179.suppressed.exp
+  Deploying HSP_GameEditor Win64 Development...
+  Total build time: 12.55 seconds (Parallel executor: 1.53 seconds)

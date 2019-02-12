@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\HSP_Game.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{0618D717-7821-49A1-8816-3117A86C4BB3}</UniqueIdentifier>
+      <UniqueIdentifier>{F0209524-3D5E-4BB8-8221-621B01E6918E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\HSP_Game.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{84A85153-DA0B-4918-859A-612BFB0B0FE6}</UniqueIdentifier>
+      <UniqueIdentifier>{705DEA6E-E17F-4840-936F-EAA8A4BAF3C4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\HSP_Game">
-      <UniqueIdentifier>{F159589A-5CBD-4D32-B089-B919FB4F1723}</UniqueIdentifier>
+      <UniqueIdentifier>{22BA69B6-1CCA-43C0-8DEC-4051020CD381}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\HSP_Game\HSP_Game.Build.cs">
       <Filter>Source\HSP_Game</Filter>
@@ -39,6 +39,12 @@
       <Filter>Source\HSP_Game</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\HSP_Game\HSP_GameGameModeBase.h">
+      <Filter>Source\HSP_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HSP_Game\ProtagCharacter.cpp">
+      <Filter>Source\HSP_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HSP_Game\ProtagCharacter.h">
       <Filter>Source\HSP_Game</Filter>
     </ClInclude>
   </ItemGroup>
